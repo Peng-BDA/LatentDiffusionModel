@@ -1,35 +1,4 @@
-# AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model (AAAI 2024)
-
-
-<!-- <br> -->
-[Teng Hu<sup>1#</sup>](https://sjtuplayer.github.io/), [Jiangning Zhang<sup>2#</sup>](https://zhangzjn.github.io/),  [Ran Yi<sup>1*</sup>](https://yiranran.github.io/), [Yuzhen Du<sup>1</sup>](https://github.com/YuzhenD),  [Xu Chen<sup>2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=1621dVIAAAAJ), [Liang Liu<sup>2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=Kkg3IPMAAAAJ), [Yabiao Wang<sup>2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=xiK4nFUAAAAJ), and [Chengjie Wang<sup>1,2</sup>](https://scholar.google.com/citations?hl=zh-CN&user=fqte5H4AAAAJ).
-<!-- <br> -->
-
-(#Equal contribution,*Corresponding author)
-
-[<sup>1</sup>Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), 
-[<sup>2</sup>Youtu Lab, Tencent](https://open.youtu.qq.com/#/open)
-
-[![arXiv](https://img.shields.io/badge/arXiv-2312.05767-b31b1b.svg)](https://arxiv.org/abs/2312.05767)
-
-[Project Page](https://sjtuplayer.github.io/anomalydiffusion-page/)
-
-## News
-**June 29, 2024**
-
-- The anomalous data for hazelnut has been updated since the previous version can only achieve AP<85. Current Version can achieve an AP score around 96.
-You can download the new version in the following link to Google Drive.
-- ```ldm/models/diffusion/ddpm.py``` has been updated since previous validation step has some problem. But it does not influence the training results.
-
-## Todo (Latest update: 2024/08/11)
-- [x] **Release the training code
-- [x] **Release the UNet checkpoints for testing anomaly detection accuracy
-- [x] **Release the data
-- [x] **Release checkpoints for anomalydiffusion.
-- [x] **Release the inference code
-- [x] **Release the code for ic-lpipis
-
-
+# Master thesis  AnomalyDiffusion
 
 ## Data and checkpoints
 
