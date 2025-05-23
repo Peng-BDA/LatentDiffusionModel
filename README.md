@@ -123,15 +123,4 @@ To compute IC-LPIPS for the generated dataset, please run:
 python cal_ic_lpips.py --mvtec_path=$path_to_mvtec --gen_path=$path_to_the_generated_data
 ```
 
-## Citation
 
-If you make use of our work, please cite our paper:
-
-```
-@inproceedings{hu2023anomalydiffusion,
-  title={AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model},
-  author={Hu, Teng and Zhang, Jiangning and Yi, Ran and Du, Yuzhen and Chen, Xu and Liu, Liang and Wang, Yabiao and Wang, Chengjie},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2024}
-}
-```
